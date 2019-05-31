@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28307.136
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OutlookLocationImage", "OutlookLocationImage\OutlookLocationImage.csproj", "{A48DD768-92A0-4E46-BA8D-25243D7A4C68}"
 EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "OutlookLocationImageSetup", "OutlookLocationImageSetup\OutlookLocationImageSetup.vdproj", "{B8EE2B7B-3FFC-495B-91D5-20C72CAF63F8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,8 @@ Global
 		{A48DD768-92A0-4E46-BA8D-25243D7A4C68}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A48DD768-92A0-4E46-BA8D-25243D7A4C68}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A48DD768-92A0-4E46-BA8D-25243D7A4C68}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8EE2B7B-3FFC-495B-91D5-20C72CAF63F8}.Debug|Any CPU.ActiveCfg = Debug
+		{B8EE2B7B-3FFC-495B-91D5-20C72CAF63F8}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
