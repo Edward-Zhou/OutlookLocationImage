@@ -202,8 +202,17 @@
     <ManifestKeyFile>OutlookLocationImage_TemporaryKey.pfx</ManifestKeyFile>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestCertificateThumbprint>DB6270D291EEEB18BB69A5FD30C0509C42A7DFC8</ManifestCertificateThumbprint>
+    <ManifestCertificateThumbprint>87D69DAAA12EBDF717551615545F3425F8EA7F69</ManifestCertificateThumbprint>
   </PropertyGroup>
+  <!--<PropertyGroup>
+    <SignManifests>true</SignManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>OutlookLocationImage_TemporaryKey.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>DB6270D291EEEB18BB69A5FD30C0509C42A7DFC8</ManifestCertificateThumbprint>
+  </PropertyGroup>-->
   <!-- Include the build rules for a C# project. -->
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- Include additional build rules for an Office application add-in. -->

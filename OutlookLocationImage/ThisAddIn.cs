@@ -21,6 +21,7 @@ namespace OutlookLocationImage
         private void ThisAddIn_Startup(object sender, System.EventArgs e)
         {
             inspectors = Globals.ThisAddIn.Application.Inspectors;
+            inspectors.NewInspector -= Inspectors_NewInspector;
             inspectors.NewInspector += Inspectors_NewInspector;
         }
 
@@ -30,6 +31,7 @@ namespace OutlookLocationImage
             {
                 appointmentItem = Inspector.CurrentItem;
                 CurrentLocation = appointmentItem.Location;
+                appointmentItem.PropertyChange -= AppointmentItem_PropertyChange;
                 appointmentItem.PropertyChange += AppointmentItem_PropertyChange;
             }
             //if (Inspector.CurrentItem is MeetingItem)

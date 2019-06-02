@@ -15,56 +15,152 @@
     {
         "Entry"
         {
-        "MsmKey" = "8:_005C0B434DA746D4B898E4EEAC90B2C9"
+        "MsmKey" = "8:_22305CC5CE15DA1C61075ED8510A30F6"
+        "OwnerKey" = "8:_D5C36E7EA5944736845310139B890C26"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_2D86AC429C0252A63856EA2C082922BB"
+        "OwnerKey" = "8:_D5C36E7EA5944736845310139B890C26"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_58CB3FB69328B89E40AFBF49A7D0D297"
+        "OwnerKey" = "8:_D5C36E7EA5944736845310139B890C26"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_66EC051D41B64A9D925AEE71118294CB"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_07D37FA25D608BFBB4767452E80BF5F1"
-        "OwnerKey" = "8:_43A168BAD9B943DFA04F6AD804F95AF9"
+        "MsmKey" = "8:_77A1AC86C346199ED44B56C3FCE8D18E"
+        "OwnerKey" = "8:_58CB3FB69328B89E40AFBF49A7D0D297"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_33E41994D14146F09AE49D69592217B5"
+        "MsmKey" = "8:_77A1AC86C346199ED44B56C3FCE8D18E"
+        "OwnerKey" = "8:_D5C36E7EA5944736845310139B890C26"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_8EE50B5FA520B02366394A4F4D7F4482"
+        "OwnerKey" = "8:_D5C36E7EA5944736845310139B890C26"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_8EE50B5FA520B02366394A4F4D7F4482"
+        "OwnerKey" = "8:_F04F025D4A255D9C5CBBAFF2BC0F262E"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_99002DC8A54412D31C999115464CD397"
+        "OwnerKey" = "8:_D5C36E7EA5944736845310139B890C26"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_99002DC8A54412D31C999115464CD397"
+        "OwnerKey" = "8:_2D86AC429C0252A63856EA2C082922BB"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_A8F4A218DE1740ED952746EE60EAE884"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_43A168BAD9B943DFA04F6AD804F95AF9"
+        "MsmKey" = "8:_D4FFFCC2B477DD82C82C69669646FDCE"
+        "OwnerKey" = "8:_8EE50B5FA520B02366394A4F4D7F4482"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D4FFFCC2B477DD82C82C69669646FDCE"
+        "OwnerKey" = "8:_F04F025D4A255D9C5CBBAFF2BC0F262E"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D4FFFCC2B477DD82C82C69669646FDCE"
+        "OwnerKey" = "8:_D5C36E7EA5944736845310139B890C26"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_D5C36E7EA5944736845310139B890C26"
         "OwnerKey" = "8:_UNDEFINED"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
-        "MsmKey" = "8:_9EFF818BDC164233AF6A792DD0D8C117"
-        "OwnerKey" = "8:_UNDEFINED"
+        "MsmKey" = "8:_F04F025D4A255D9C5CBBAFF2BC0F262E"
+        "OwnerKey" = "8:_D5C36E7EA5944736845310139B890C26"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_AA4AE24D7B09406897671553E06C7254"
+        "OwnerKey" = "8:_22305CC5CE15DA1C61075ED8510A30F6"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_43A168BAD9B943DFA04F6AD804F95AF9"
+        "OwnerKey" = "8:_D5C36E7EA5944736845310139B890C26"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_07D37FA25D608BFBB4767452E80BF5F1"
+        "OwnerKey" = "8:_58CB3FB69328B89E40AFBF49A7D0D297"
         "MsmSig" = "8:_UNDEFINED"
         }
         "Entry"
         {
         "MsmKey" = "8:_UNDEFINED"
-        "OwnerKey" = "8:_005C0B434DA746D4B898E4EEAC90B2C9"
+        "OwnerKey" = "8:_77A1AC86C346199ED44B56C3FCE8D18E"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_2D86AC429C0252A63856EA2C082922BB"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_F04F025D4A255D9C5CBBAFF2BC0F262E"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_99002DC8A54412D31C999115464CD397"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_8EE50B5FA520B02366394A4F4D7F4482"
+        "MsmSig" = "8:_UNDEFINED"
+        }
+        "Entry"
+        {
+        "MsmKey" = "8:_UNDEFINED"
+        "OwnerKey" = "8:_D4FFFCC2B477DD82C82C69669646FDCE"
         "MsmSig" = "8:_UNDEFINED"
         }
     }
@@ -92,6 +188,14 @@
             "PrerequisitesLocation" = "2:1"
             "Url" = "8:"
             "ComponentsUrl" = "8:"
+                "Items"
+                {
+                    "{EDC2488A-8267-493A-A98E-7D9C3B36CDF3}:.NETFramework,Version=v4.6.1"
+                    {
+                    "Name" = "8:Microsoft .NET Framework 4.6.1 (x86 and x64)"
+                    "ProductCode" = "8:.NETFramework,Version=v4.6.1"
+                    }
+                }
             }
         }
         "Release"
@@ -159,51 +263,20 @@
         }
         "File"
         {
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_005C0B434DA746D4B898E4EEAC90B2C9"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_22305CC5CE15DA1C61075ED8510A30F6"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Microsoft.Office.Tools.Common.v4.0.Utilities, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:stdole, Version=7.0.3300.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a"
                 "ScatterAssemblies"
                 {
-                    "_005C0B434DA746D4B898E4EEAC90B2C9"
+                    "_22305CC5CE15DA1C61075ED8510A30F6"
                     {
-                    "Name" = "8:Microsoft.Office.Tools.Common.v4.0.Utilities.dll"
+                    "Name" = "8:stdole.dll"
                     "Attributes" = "3:512"
                     }
                 }
-            "SourcePath" = "8:..\\OutlookLocationImage\\bin\\Release\\Microsoft.Office.Tools.Common.v4.0.Utilities.dll"
-            "TargetName" = "8:"
-            "Tag" = "8:"
-            "Folder" = "8:_02896229D44A4AE6978F5B899ACE5DD1"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_07D37FA25D608BFBB4767452E80BF5F1"
-            {
-            "AssemblyRegister" = "3:1"
-            "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Microsoft.Office.Tools.Common.v4.0.Utilities, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
-                "ScatterAssemblies"
-                {
-                    "_07D37FA25D608BFBB4767452E80BF5F1"
-                    {
-                    "Name" = "8:Microsoft.Office.Tools.Common.v4.0.Utilities.DLL"
-                    "Attributes" = "3:512"
-                    }
-                }
-            "SourcePath" = "8:Microsoft.Office.Tools.Common.v4.0.Utilities.DLL"
+            "SourcePath" = "8:stdole.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_02896229D44A4AE6978F5B899ACE5DD1"
@@ -221,9 +294,71 @@
             "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_33E41994D14146F09AE49D69592217B5"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_2D86AC429C0252A63856EA2C082922BB"
             {
-            "SourcePath" = "8:..\\OutlookLocationImage\\bin\\Release\\OutlookLocationImage.vsto"
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Microsoft.Office.Tools.Outlook.v4.0.Utilities, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_2D86AC429C0252A63856EA2C082922BB"
+                    {
+                    "Name" = "8:Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_02896229D44A4AE6978F5B899ACE5DD1"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_58CB3FB69328B89E40AFBF49A7D0D297"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Microsoft.Office.Tools.v4.0.Framework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_58CB3FB69328B89E40AFBF49A7D0D297"
+                    {
+                    "Name" = "8:Microsoft.Office.Tools.v4.0.Framework.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:Microsoft.Office.Tools.v4.0.Framework.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_02896229D44A4AE6978F5B899ACE5DD1"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_66EC051D41B64A9D925AEE71118294CB"
+            {
+            "SourcePath" = "8:..\\OutlookLocationImage\\bin\\Debug\\OutlookLocationImage.vsto"
             "TargetName" = "8:OutlookLocationImage.vsto"
             "Tag" = "8:"
             "Folder" = "8:_02896229D44A4AE6978F5B899ACE5DD1"
@@ -241,21 +376,103 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_43A168BAD9B943DFA04F6AD804F95AF9"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_77A1AC86C346199ED44B56C3FCE8D18E"
             {
             "AssemblyRegister" = "3:1"
             "AssemblyIsInGAC" = "11:FALSE"
-            "AssemblyAsmDisplayName" = "8:Microsoft.Office.Tools.Outlook.v4.0.Utilities, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
+            "AssemblyAsmDisplayName" = "8:Microsoft.VisualStudio.Tools.Applications.Runtime, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
                 "ScatterAssemblies"
                 {
-                    "_43A168BAD9B943DFA04F6AD804F95AF9"
+                    "_77A1AC86C346199ED44B56C3FCE8D18E"
                     {
-                    "Name" = "8:Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll"
+                    "Name" = "8:Microsoft.VisualStudio.Tools.Applications.Runtime.dll"
                     "Attributes" = "3:512"
                     }
                 }
-            "SourcePath" = "8:..\\OutlookLocationImage\\bin\\Release\\Microsoft.Office.Tools.Outlook.v4.0.Utilities.dll"
+            "SourcePath" = "8:Microsoft.VisualStudio.Tools.Applications.Runtime.dll"
             "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_02896229D44A4AE6978F5B899ACE5DD1"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_8EE50B5FA520B02366394A4F4D7F4482"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Microsoft.Office.Tools.Common, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_8EE50B5FA520B02366394A4F4D7F4482"
+                    {
+                    "Name" = "8:Microsoft.Office.Tools.Common.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:Microsoft.Office.Tools.Common.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_02896229D44A4AE6978F5B899ACE5DD1"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_99002DC8A54412D31C999115464CD397"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Microsoft.Office.Tools.Common.v4.0.Utilities, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_99002DC8A54412D31C999115464CD397"
+                    {
+                    "Name" = "8:Microsoft.Office.Tools.Common.v4.0.Utilities.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:Microsoft.Office.Tools.Common.v4.0.Utilities.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_02896229D44A4AE6978F5B899ACE5DD1"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_A8F4A218DE1740ED952746EE60EAE884"
+            {
+            "SourcePath" = "8:..\\OutlookLocationImage\\bin\\Debug\\OutlookLocationImage.dll.manifest"
+            "TargetName" = "8:OutlookLocationImage.dll.manifest"
             "Tag" = "8:"
             "Folder" = "8:_02896229D44A4AE6978F5B899ACE5DD1"
             "Condition" = "8:"
@@ -272,10 +489,21 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_9EFF818BDC164233AF6A792DD0D8C117"
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_D4FFFCC2B477DD82C82C69669646FDCE"
             {
-            "SourcePath" = "8:..\\OutlookLocationImage\\bin\\Release\\OutlookLocationImage.dll.manifest"
-            "TargetName" = "8:OutlookLocationImage.dll.manifest"
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Microsoft.Office.Tools, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_D4FFFCC2B477DD82C82C69669646FDCE"
+                    {
+                    "Name" = "8:Microsoft.Office.Tools.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:Microsoft.Office.Tools.dll"
+            "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_02896229D44A4AE6978F5B899ACE5DD1"
             "Condition" = "8:"
@@ -289,7 +517,38 @@
             "PackageAs" = "3:1"
             "Register" = "3:1"
             "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
+            "IsolateTo" = "8:"
+            }
+            "{9F6F8455-1EF1-4B85-886A-4223BCC8E7F7}:_F04F025D4A255D9C5CBBAFF2BC0F262E"
+            {
+            "AssemblyRegister" = "3:1"
+            "AssemblyIsInGAC" = "11:FALSE"
+            "AssemblyAsmDisplayName" = "8:Microsoft.Office.Tools.Outlook, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL"
+                "ScatterAssemblies"
+                {
+                    "_F04F025D4A255D9C5CBBAFF2BC0F262E"
+                    {
+                    "Name" = "8:Microsoft.Office.Tools.Outlook.dll"
+                    "Attributes" = "3:512"
+                    }
+                }
+            "SourcePath" = "8:Microsoft.Office.Tools.Outlook.dll"
+            "TargetName" = "8:"
+            "Tag" = "8:"
+            "Folder" = "8:_02896229D44A4AE6978F5B899ACE5DD1"
+            "Condition" = "8:"
+            "Transitive" = "11:FALSE"
+            "Vital" = "11:TRUE"
+            "ReadOnly" = "11:FALSE"
+            "Hidden" = "11:FALSE"
+            "System" = "11:FALSE"
+            "Permanent" = "11:FALSE"
+            "SharedLegacy" = "11:FALSE"
+            "PackageAs" = "3:1"
+            "Register" = "3:1"
+            "Exclude" = "11:FALSE"
+            "IsDependency" = "11:TRUE"
             "IsolateTo" = "8:"
             }
         }
@@ -349,7 +608,7 @@
         "Name" = "8:Microsoft Visual Studio"
         "ProductName" = "8:OutlookLocationImageSetup"
         "ProductCode" = "8:{41A64800-E059-486F-AE02-EBCC08DF7A3D}"
-        "PackageCode" = "8:{A86CA081-91F8-450B-B61C-A2A1C95EADAF}"
+        "PackageCode" = "8:{798A02FF-8CBB-4C7A-8D02-A371A5897229}"
         "UpgradeCode" = "8:{D025F414-5925-45D5-825E-B7A83F7734C3}"
         "AspNetVersion" = "8:4.0.30319.0"
         "RestartWWWService" = "11:FALSE"
@@ -970,9 +1229,9 @@
         }
         "ProjectOutput"
         {
-            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_AA4AE24D7B09406897671553E06C7254"
+            "{5259A561-127C-4D43-A0A1-72F10C7B3BF8}:_D5C36E7EA5944736845310139B890C26"
             {
-            "SourcePath" = "8:..\\OutlookLocationImage\\obj\\Release\\OutlookLocationImage.dll"
+            "SourcePath" = "8:..\\OutlookLocationImage\\obj\\Debug\\OutlookLocationImage.dll"
             "TargetName" = "8:"
             "Tag" = "8:"
             "Folder" = "8:_02896229D44A4AE6978F5B899ACE5DD1"
@@ -990,7 +1249,7 @@
             "IsDependency" = "11:FALSE"
             "IsolateTo" = "8:"
             "ProjectOutputGroupRegister" = "3:1"
-            "OutputConfiguration" = "8:Release|Any CPU"
+            "OutputConfiguration" = "8:Debug|Any CPU"
             "OutputGroupCanonicalName" = "8:Built"
             "OutputProjectGuid" = "8:{A48DD768-92A0-4E46-BA8D-25243D7A4C68}"
             "ShowKeyOutput" = "11:TRUE"
